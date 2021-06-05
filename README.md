@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Machine learning,data science,Big data
 - 🌱 I’m currently learning ...Common Lisp
 -    languages i know ...python
-- 💞️ I’m looking to collaborate on ...any project related my intrest
+- 💞️ I’m looking to collaborate on ...any project related to my intrest
 - 📫 How to reach me ...
 
 <!---
