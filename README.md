@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash8892-dotcom
+- 👋 Hi, I’m The_Software_artist
 - 👀 I’m interested in ... Machine learning,data science,Big data
 - 🌱 I’m currently learning ...Common Lisp
 -    languages i know ...python
